@@ -1,16 +1,18 @@
 {
-  "name": "@pangolindex/sdk",
+  "name": "@avaxswap/sdk",
   "license": "MIT",
-  "version": "1.1.0",
-  "description": "🛠 An SDK for building applications on top of Pangolin.",
+  "version": "3.0.1",
+  "description": "🛠 An SDK for building applications on top of avaxswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pangolindex/sdk",
+  "repository": "https://github.com/codingsh/avaxswap-sdk",
   "keywords": [
     "pangolin",
+    "traderjoe",
+    "codingsh",
     "avalanche"
   ],
   "module": "dist/sdk.esm.js",
